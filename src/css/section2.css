@@ -1,0 +1,28 @@
+body {
+  overflow-x: hidden;
+}
+
+.container2 {
+  overflow: hidden !important;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100vw;
+}
+
+.words-wrapper {
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  padding-left: 100%;
+}
+
+.word {
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 0 0.2em;
+  line-height: 1;
+  display: inline-block;
+  opacity: 0;
+}
