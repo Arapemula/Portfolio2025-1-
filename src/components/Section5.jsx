@@ -22,7 +22,7 @@ function Section5() {
             }
             style={{ cursor: "pointer" }}
           >
-            <img src="public/BladeFarm.png" alt="BladeFarm" />
+            <img src="/BladeFarm.png" alt="BladeFarm" />
             <h2>BladeFarm2D</h2>
             <p>
               I worked as a Game Asset Designer for the 2D game Bladefarm 2045, where I designed and created various pixel art visual assets used directly in the game.
@@ -39,7 +39,7 @@ function Section5() {
             onClick={() => window.open("http://bit.ly/3ImgVMe", "_blank")}
             style={{ cursor: "pointer" }}
           >
-            <img src="public/sipirang.png" alt="Sipirang" />
+            <img src="/sipirang.png" alt="Sipirang" />
             <h2>Sipirang-UNTIRTA</h2>
             <p>
               UI/UX Design and Frontend Development Project for Competition Needs.
@@ -56,10 +56,10 @@ function Section5() {
             onClick={() => window.open("https://www.instagram.com/hmif_untirta/", "_blank")}
             style={{ cursor: "pointer" }}
           >
-            <img src="public/HMIF.png" alt="Sipirang" />
+            <img src="/HMIF.png" alt="Sipirang" />
             <h2>IG-HMIF</h2>
             <p>
-              Responsible for creating visual assets for event and organizational activity publications on social media, contributing to increased audience engagement.
+              Responsible for creating visual assets for event and organizational activity ations on social media, contributing to increased audience engagement.
             </p>
           </div>
         </>
