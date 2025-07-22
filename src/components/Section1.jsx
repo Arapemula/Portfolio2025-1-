@@ -45,7 +45,7 @@ function Section1() {
 
         <div className="button-group mt-3">
           <a
-            href="https://drive.google.com/file/d/1FpIM6yT9vB41MqM6xlhAbRjnoCzP3mot/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1bCRj6u3yhVV-tO6gZNNWjoRjPVa1qVxa/view?usp=drive_link"
             className="custom-btn"
             target="_blank"
             rel="noopener noreferrer"
@@ -54,7 +54,7 @@ function Section1() {
           </a>
           <a href="https://wa.link/u951f2" className="custom-btn">
             Contact Me
-          </a>
+          </a> 
         </div>
         <h5 className="Info">Scroll for more information</h5>
 
